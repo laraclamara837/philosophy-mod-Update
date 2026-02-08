@@ -11,7 +11,7 @@
 	      "Eliminates combat penalty for attacking over a river"],
   },
 	{
-    "name": "St. Mercurius",
+    "name": "St Mercurius",
 		"unitType": "Deity",
 		"movement": "4",
 		"strength": "100",

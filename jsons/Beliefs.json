@@ -70,7 +70,7 @@
 {
         "name": "Jihad",
         "type": "Follower"
-        "uniques": ["[+25]% Production when constructing [All] units [in cities following this religion]"]
+        "uniques": ["[+30]% Production when constructing [Military] units [in cities following this religion]"]
     },
 {
         "name": "Ritual Combat",
@@ -92,7 +92,7 @@
 {
         "name": "Hesychasm",
         "type": "Follower"
-        "uniques": ["[+25]% Natural religion spread [in cities following this religion] <when at war>", "[+2 Faith] [in all cities]"]
+        "uniques": ["[+30]% Natural religion spread [in cities following this religion] <when at war>", "[+2 Faith] [in all cities]"]
     },
 {
         "name": "Corrupted Scripture",

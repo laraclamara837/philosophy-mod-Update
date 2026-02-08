@@ -14,11 +14,11 @@
     "name": "St. Mercurius",
 		"unitType": "Deity",
 		"movement": "4",
-		"strength": "85",
+		"strength": "100",
 		"cost": "2000",
 		"promotions": ["Blitz"],
   "uniques": ["Cannot be purchased","Unbuildable","Can move after attacking","Never appears as a Barbarian unit","Invisible to non-adjacent units",
-	      "[+15]% Strength bonus for [Military] units within [2] tiles"],
+	      "[+50]% Strength bonus for [Military] units within [4] tiles"],
   },
 	{
     "name": "Simon the Tanner",
@@ -50,7 +50,7 @@
 		"strength": "25",
         "cost": 108,
   "uniques": ["Unbuildable","Never appears as a Barbarian unit","Invisible to non-adjacent units",
-	      "May capture killed [All] units","[+64]% Strength <when defending>","Can [Spread Religion] [2] times"],
+	      "May capture killed [All] units","[+64]% Strength <when defending>","Can Spread Religion <[2] times> <after which this unit is consumed"],
   },
 	{
     "name": "Onmyoji",

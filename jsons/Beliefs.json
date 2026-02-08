@@ -50,7 +50,7 @@
         "name": "Autocephalous Communion",
         "type": "Founder",
         "uniques": ["Resting point for Influence with City-States following this religion [+20]",
-                    "[+1 Happiness, +1 Culture] from every [Shrine] <in cities where this religion has at least [3] followers>"]
+                    "[+1 Happiness, +1 Culture] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>"]
     },
 {
         "name": "Submission to the Pope",

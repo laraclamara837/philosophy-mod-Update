@@ -8,7 +8,7 @@
     "specialistSlots": {
       "Ascetic": 2
     },
-    "uniques": ["Destroyed when the city is captured","Hidden when religion is disabled"]
+    "uniques": ["Destroyed when the city is captured","Only available <when religion is enabled>"]
   },
   {
     "name": "College of Theology",
@@ -21,7 +21,7 @@
     "specialistSlots": {
       "Philosopher": 2
     },
-    "uniques": ["Hidden when religion is disabled"]
+    "uniques": ["Only available <when religion is enabled>"]
   },
   {
     "name": "St Peter's Basilica",
@@ -32,7 +32,7 @@
     "greatPersonPoints": {"Great Prophet": 4},
     "requiredTech": "Theology",
 	  	"quote": "'I saw the angel in the marble and carved until I set him free.' - Michelangelo Buonarroti",
-    "uniques": ["Hidden when religion is disabled","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
+    "uniques": ["Only available <when religion is enabled>","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
   },
   {
     "name": "Fushimi Inari Taisha",
@@ -43,14 +43,14 @@
     "isWonder": true,
     "greatPersonPoints": {"Great Prophet": 4},
     "requiredTech": "Masonry",
-    "uniques": ["Hidden when religion is disabled","Free [Great Prophet] appears"]
+    "uniques": ["Only available <when religion is enabled>","Free [Great Prophet] appears"]
   },
 {
 		"name": "Pura Agung",
 		"cost": 0,
 		"faith": 3,
 		"food": 1,
-		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
+		"uniques": ["Unbuildable","Only available <when religion is enabled>","Can only be built [in holy cities]",
 "Free [Barong] appears"]
 	},
 {
@@ -58,7 +58,7 @@
 		"cost": 0,
 		"faith": 2,
 		"culture": 2,
-		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
+		"uniques": ["Unbuildable","Only available <when religion is enabled>","Can only be built [in holy cities]",
 "Free [St Mercurius] appears"]
 	},
 {
@@ -66,7 +66,7 @@
 		"cost": 0,
 		"faith": 2,
 		"culture": 2,
-		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
+		"uniques": ["Unbuildable","Only available <when religion is enabled>","Can only be built [in holy cities]",
 "Free [Simon the Tanner] appears"]
 	},
 {
@@ -75,7 +75,7 @@
 		"faith": 2,
 		"Gold": 1,
 		"culture": 1,
-		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
+		"uniques": ["Unbuildable","Only available <when religion is enabled>","Can only be built [in holy cities]",
 "Free [Tlaloc] appears"]
 	}
 ]
